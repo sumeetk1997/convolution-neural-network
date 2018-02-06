@@ -1,0 +1,7 @@
+CONVOLUTION NEURAL NETWORK:
+
+Dataset contains images of dogs and cats. Two datasets are available, one for training and another for testing. I have trained a convolution neural network using a single hidden layer containing 128 nodes using training set. I have used rectifier function for convolutional layer and sigmoid function for output layer.
+
+We have to predict the output as dogs or cats from test set. 
+
+DATASET DOWNLOAD LINK:http://www.superdatascience.com/wp-content/uploads/2017/03/Convolutional-Neural-Networks.zip
